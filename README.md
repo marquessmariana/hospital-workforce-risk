@@ -2,7 +2,7 @@
 
 **Excel · Pivot Tables · 464 hospitals · 2009–2013**
 
-Can you tell a hospital is heading into a staffing problem before it actually becomes one, just from the numbers? I picked a public hospital staffing dataset to find out, after seeing a workforce planning role open up and wanting to show I could do the job, not just talk about it. Small rural hospitals quietly losing their nurses to agency workers is the pattern that answered the question.
+Can you tell a hospital is heading into a staffing problem before it actually becomes one, just from the numbers? I picked a public hospital staffing dataset to find out, after seeing a workforce planning role open up and wanting to show I could do the job, not just talk about it. Rural hospitals quietly losing their nurses to agency workers is the pattern that answered the question.
 
 -----
 
